@@ -27,6 +27,8 @@ Just a noob **App developer** for android/ios using Flutter with a uniquenessly 
 ## 🛠️ Tech Stack
 
 **Languages**:\
+<img align="right" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxx4688&theme=vision-friendly-dark">
+
 Dart, HTML, CSS, basics Python
 
 **Frameworks/Libraries**:\
@@ -34,7 +36,6 @@ Flutter
 
 **Databases**:\
 Firebase,
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxx4688&theme=vision-friendly-dark">
 
 ---
 *Thanks for stopping by! ⭐ Let's build something crispy and salty.*
