@@ -37,8 +37,7 @@ Firebase,
 
 ---
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxx4688&theme=vision-friendly-dark">
-
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxx4688&theme=vision-friendly-dark">\
 
 *Thanks for stopping by! ⭐ Let's build something crispy and salty.*
 
