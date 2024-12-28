@@ -1,4 +1,5 @@
 <h1 align=left><b>Hi There! <img src="https://user-images.githubusercontent.com/80586983/170262939-814e2ea9-1881-4d16-9acd-fbc92a3c359a.gif" width="30px">I'm ashish.</h1>
+
 **AKA** `@maxx4688` everywhere 🌐
 
 
@@ -23,8 +24,6 @@ Just a noob **App developer** for android/ios using Flutter with a uniquenessly 
 - 📫 Reach me through [Email](mailto:alexmaxx8055@gmail.com)
 
 ---
-<img align="right" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxx4688&theme=vision-friendly-dark">
-
 ## 🛠️ Tech Stack
 
 **Languages**:\
@@ -37,5 +36,8 @@ Flutter
 Firebase,
 
 ---
+
+<img align="right" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxx4688&theme=vision-friendly-dark">
+
 *Thanks for stopping by! ⭐ Let's build something crispy and salty.*
 
