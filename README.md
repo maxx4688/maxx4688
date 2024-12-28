@@ -16,7 +16,7 @@
 - and..
 
 ```zsh
-> Just a noob **App developer** for android/ios using Flutter with a uniquenessly user-friendly applications. always looks for exciting projects to work on and build something amazing.
+> Just a common app developer for android/ios using Flutter with a uniquenessly user-friendly ui. always looks for exciting projects to work on and build something amazing.
 ```
 
 - 🔭 Currently working on: [SampurnaKart](https://play.google.com/store/apps/details?id=com.sampurnakart.sampurna&pcampaignid=web_share)
