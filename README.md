@@ -25,10 +25,9 @@ Just a noob **App developer** for android/ios using Flutter with a uniquenessly 
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages**:\
 <img align="right" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxx4688&theme=vision-friendly-dark">
 
+**Languages**:\
 Dart, HTML, CSS, basics Python
 
 **Frameworks/Libraries**:\
