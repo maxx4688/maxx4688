@@ -15,7 +15,9 @@
 - Motion Designer
 - and..
 
-Just a noob **App developer** for android/ios using Flutter with a uniquenessly user-friendly applications. always looks for exciting projects to work on and build something amazing.
+```zsh
+> Just a noob **App developer** for android/ios using Flutter with a uniquenessly user-friendly applications. always looks for exciting projects to work on and build something amazing.
+```
 
 - 🔭 Currently working on: [SampurnaKart](https://play.google.com/store/apps/details?id=com.sampurnakart.sampurna&pcampaignid=web_share)
 - ✨ Build [EmptyList](https://github.com/maxx4688/EmptyList) a Nothing UI based fully fuctional note taking app. 
