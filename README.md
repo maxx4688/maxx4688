@@ -7,12 +7,12 @@
 > HR Student
 
 ### By Interest
-> App Developer
-> Graphic Designer
-> UI Designer
-> Logo Designer
-> Motion Designer
-> and..
+- App Developer
+- Graphic Designer
+- UI Designer
+- Logo Designer
+- Motion Designer
+- and..
 
 Just a noob **App developer** for android/ios using Flutter with a uniquenessly user-friendly applications. always looks for exciting projects to work on and build something amazing.
 
