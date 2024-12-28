@@ -27,13 +27,13 @@ Just a noob **App developer** for android/ios using Flutter with a uniquenessly 
 ## 🛠️ Tech Stack
 
 **Languages**:\
-Dart, HTML, CSS
+Dart, HTML, CSS, basics Python
 
 **Frameworks/Libraries**:\
 Flutter
 
 **Databases**:\
-Firebase
+Firebase,
 
 ---
 
