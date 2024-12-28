@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm ashish.
+<h1 align=left><b>Hi There! <img src="https://user-images.githubusercontent.com/80586983/170262939-814e2ea9-1881-4d16-9acd-fbc92a3c359a.gif" width="30px"><br>I'm ashish.</h1>
 **AKA** `@maxx4688` everywhere 🌐
 
 
@@ -36,6 +36,8 @@ Flutter
 Firebase,
 
 ---
+
+<img align="right" width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxx4688&theme=radical">
 
 
 *Thanks for stopping by! ⭐ Let's build something crispy and salty.*
