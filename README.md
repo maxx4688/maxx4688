@@ -21,7 +21,7 @@
   always looks for exciting projects to work on and build something amazing.
 ```
 
-- 🔭 Currently working on: [SampurnaKart](https://play.google.com/store/apps/details?id=com.sampurnakart.sampurna&pcampaignid=web_share)
+- 🔭 Currently working on: [SampurnaKart Android](https://play.google.com/store/apps/details?id=com.sampurnakart.sampurna&pcampaignid=web_share) & [SampurnaKart iOS](https://apps.apple.com/in/app/sampurnakart/id6743084239)
 - ✨ Build [EmptyList](https://github.com/maxx4688/EmptyList) a Nothing UI based fully fuctional note taking app. 
 - 🌱 Learning new ways to create something even more extraordinary.
 - 👯 Open to collaborate.
